@@ -1,0 +1,1208 @@
+{
+  "pack": {
+    "_id": "rocky-grassland",
+    "name": "Rocky Grassland"
+  },
+  "properties": [
+    {
+      "key": "mesh type",
+      "value": "closed"
+    },
+    {
+      "key": "size",
+      "value": "tiny"
+    }
+  ],
+  "name": "Debris and Twigs",
+  "tags": [
+    "brown",
+    "sticks",
+    "nature",
+    "mulch",
+    "dead",
+    "wood",
+    "forest",
+    "scatter",
+    "free",
+    "archviz"
+  ],
+  "previews": {
+    "images": [
+      {
+        "contentLength": 412969,
+        "resolution": "816x400",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_Highpoly.png",
+        "tags": [
+          "thumb",
+          "highpoly"
+        ]
+      },
+      {
+        "contentLength": 1274728,
+        "resolution": "1632x800",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_Highpoly_Retina.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 412345,
+        "resolution": "816x400",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_LOD0.png",
+        "tags": [
+          "lod0",
+          "preview"
+        ]
+      },
+      {
+        "contentLength": 1272029,
+        "resolution": "1631x800",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_LOD0_Retina.png",
+        "tags": [
+          "lod0",
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 410307,
+        "resolution": "816x400",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_LOD1.png",
+        "tags": [
+          "lod1",
+          "preview"
+        ]
+      },
+      {
+        "contentLength": 1269742,
+        "resolution": "1631x800",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_LOD1_Retina.png",
+        "tags": [
+          "lod1",
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 1234,
+        "resolution": "49x24",
+        "uri": "NJqHaIZ0W1lKOEw7KHdlSpmMb3liRot0U0k3Jle6JK8AAAAZdFJOUyslSBwgMDsYAg47MUttYFtJXISnoH9yyeT+Ia0MAAACuUlEQVQ4yx1TWYLsIAgEVBZFY9KZnrn/SV/56I90jGht0PPylV7DvV5BVHu4nZcu7KEipEaeWCEeTnovyt7nQ86RVp2kYbNGN6qDvVWaVzXKOcOa/e5+WyNtD04w56zCRliQzWmmbGb9mvcq88leK7nuuiiIr+dRl8JARERN76FRXZWCaXayiFK41NAWTluYuGd8JGpRPVew4NHwnYaVNr/Pqflc7Fm9kgIvDW92iFgXVe3NaqMwGgMEqAIa6aB+c5sfr3frRNv+nhAf9h/VqTGiELDJfa+1Mrtk6m69Rb4kFGNkRpbSqIwwA0VVPHRA63NIJVlzpvRo0taXqbDsIBkep+xnKxEzKOl1k8kz5+y1pVp6rjbXiw69iwp04M7RtR74Yraua/ESIsWvCx1br5wPoBToubtL0oK4ovCxVbuu3PL5oAO3MbT3gq/9MkHHvvFSRs6rG7dVG5uiiahP/Dlm8NAN6SRvu7EyCiiYljofBOawrVZFkTChdZWfU8/zbvfj3rup7HBB5hzoO1AyHckRsLaWzdjQ7Qjo7WNxF5sM8Us5Enunz/ccXymXjEMfggE71mzco/7dXk8cYPneHjxo3p8nE0x7J8SofhDSaurj5+d9Xy3PN5q1hjTwLV5itO+cSB21pU1OGBrsFJGm2RulBIYhajC0UkWH7y7zby63/xmWEbym0JVZrw/qSczN8eR9QUFuKz64ZkeGr/pdSzsjj3ldPXEteCAwbIXRA0+97C3FGS3cMFnQbE43jGY/opXNaAGhUVkRh+aIuW4urmV4XXOdI2FN/0w5MWv1O0JHkpyEGhkkpRGIim/H5K0kjHWwHzwULbPxGHuUH9hsCC9AoOs4gZgopOkFo4k70NJaIw9zsP2VfH/vsN6yUw0CLuzR4zvkQM6xb4Vf/nT/f6atelGelnaq/wPkLSI01jf+FAAAAABJRU5ErkJggg==",
+        "tags": [
+          "thumb",
+          "tiny"
+        ]
+      },
+      {
+        "contentLength": 107257,
+        "resolution": "816x400",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_Highpoly_thumb.jpg",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 317586,
+        "resolution": "1632x800",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_Highpoly_Retina_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 315752,
+        "resolution": "1632x800",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_Highpoly_Retina_thumb_retina.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 107427,
+        "resolution": "816x400",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_LOD0_preview.jpg",
+        "tags": [
+          "lod0",
+          "preview",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 314758,
+        "resolution": "1631x800",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_LOD0_Retina_preview.jpg",
+        "tags": [
+          "lod0",
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 106255,
+        "resolution": "816x400",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_LOD1_preview.jpg",
+        "tags": [
+          "lod1",
+          "preview",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 312110,
+        "resolution": "1631x800",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_LOD1_Retina_preview.jpg",
+        "tags": [
+          "lod1",
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 252937,
+        "resolution": "1469x720",
+        "uri": "Dbrs_wood_twig_T_rfkkwaa_Thumb_Highpoly_Retina_sp.jpg",
+        "tags": [
+          "jpeg",
+          "sidepanel"
+        ]
+      }
+    ],
+    "relativeSize": "2x1"
+  },
+  "environment": {
+    "biome": "none",
+    "region": "none"
+  },
+  "json": {
+    "contentLength": 25817,
+    "uri": "rfkkwaa.json"
+  },
+  "points": 0,
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "0.01m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.01m"
+    },
+    {
+      "key": "length",
+      "name": "Length",
+      "value": "0.19m"
+    },
+    {
+      "key": "width",
+      "name": "Width",
+      "value": "0.2m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": false
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "2638 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "X-Rite ColorChecker Classic"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "AUM-MKII-Stable-V2-Yellow"
+    },
+    {
+      "key": "assembly",
+      "name": "Assembly",
+      "value": "False"
+    },
+    {
+      "key": "color",
+      "name": "Color",
+      "value": "Brown"
+    },
+    {
+      "key": "iteration",
+      "name": "Iteration Number",
+      "value": "%%iteration%%"
+    },
+    {
+      "key": "set",
+      "name": "Set Toggle",
+      "value": "True"
+    },
+    {
+      "key": "setname",
+      "name": "Set Name",
+      "value": "Stump"
+    },
+    {
+      "key": "points",
+      "name": "Points",
+      "value": 3
+    }
+  ],
+  "categories": [
+    "3d",
+    "tree",
+    "debris",
+    "twig"
+  ],
+  "components": [
+    {
+      "minIntensity": 54,
+      "name": "Albedo",
+      "colorSpace": "sRGB",
+      "maxIntensity": 120,
+      "type": "albedo",
+      "uris": [
+        {
+          "physicalSize": "0.25x0.25",
+          "resolutions": [
+            {
+              "resolution": "256x256",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 60376,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 277265,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Albedo.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "512x512",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 116931,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 983978,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Albedo.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 285151,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3490714,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Albedo.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 684581,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 12237876,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Albedo.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1806196,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 41621981,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Albedo.exr"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#67533D"
+    },
+    {
+      "minIntensity": 119,
+      "name": "Displacement",
+      "colorSpace": "Linear",
+      "maxIntensity": 159,
+      "type": "displacement",
+      "uris": [
+        {
+          "physicalSize": "0.25x0.25",
+          "resolutions": [
+            {
+              "resolution": "256x256",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 36847,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Displacement.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 262675,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Displacement.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "512x512",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 57179,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Displacement.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 922042,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Displacement.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 107762,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Displacement.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3584256,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Displacement.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 210212,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Displacement.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 12782352,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Displacement.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 561155,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Displacement.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 45038060,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Displacement.exr"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#898989"
+    },
+    {
+      "minIntensity": 120,
+      "name": "Bump",
+      "colorSpace": "Linear",
+      "maxIntensity": 145,
+      "type": "bump",
+      "uris": [
+        {
+          "physicalSize": "0.25x0.25",
+          "resolutions": [
+            {
+              "resolution": "256x256",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 37520,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Bump.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 226084,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Bump.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "512x512",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 79891,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Bump.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 623385,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Bump.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 183259,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Bump.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 1668441,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Bump.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 395010,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Bump.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 8699002,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Bump.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1069350,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Bump.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 33649787,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Bump.exr"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#828282"
+    },
+    {
+      "minIntensity": 15,
+      "name": "Gloss",
+      "colorSpace": "Linear",
+      "maxIntensity": 89,
+      "type": "gloss",
+      "uris": [
+        {
+          "physicalSize": "0.25x0.25",
+          "resolutions": [
+            {
+              "resolution": "256x256",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 61285,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Gloss.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 262528,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Gloss.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "512x512",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 114638,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Gloss.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 927373,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Gloss.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 262464,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Gloss.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3386007,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Gloss.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 570282,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Gloss.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 13274202,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Gloss.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1562758,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Gloss.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 46852485,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Gloss.exr"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#303030"
+    },
+    {
+      "minIntensity": 134,
+      "name": "Normal",
+      "colorSpace": "Linear",
+      "maxIntensity": 151,
+      "type": "normal",
+      "uris": [
+        {
+          "physicalSize": "0.25x0.25",
+          "resolutions": [
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 24016609,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Normal.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2994300,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Normal.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 7263414,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Normal.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1097811,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Normal.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 2033483,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Normal.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 357517,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Normal.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "512x512",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 577928,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Normal.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 104945,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Normal.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "256x256",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 153731,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Normal.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 42856,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Normal.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#7F82FE"
+    },
+    {
+      "minIntensity": 166,
+      "name": "Roughness",
+      "colorSpace": "Linear",
+      "maxIntensity": 234,
+      "type": "roughness",
+      "uris": [
+        {
+          "physicalSize": "0.25x0.25",
+          "resolutions": [
+            {
+              "resolution": "256x256",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 58806,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Roughness.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 260893,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Roughness.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "512x512",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 109406,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Roughness.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 871770,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Roughness.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 248497,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Roughness.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3183930,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Roughness.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 539317,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Roughness.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 12719980,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Roughness.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1473768,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Roughness.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 44952117,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Roughness.exr"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#CCCCCC"
+    },
+    {
+      "minIntensity": 51,
+      "name": "Specular",
+      "colorSpace": "sRGB",
+      "maxIntensity": 54,
+      "type": "specular",
+      "uris": [
+        {
+          "physicalSize": "0.25x0.25",
+          "resolutions": [
+            {
+              "resolution": "256x256",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 20500,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Specular.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 85574,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Specular.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "512x512",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 24339,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Specular.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 232694,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Specular.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 38436,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Specular.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 640722,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Specular.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 81528,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Specular.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 2946799,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Specular.exr"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 253715,
+                  "bitDepth": 16,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Specular.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 5366650,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Specular.exr"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#353535"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Opacity",
+      "colorSpace": "Linear",
+      "maxIntensity": 255,
+      "type": "opacity",
+      "uris": [
+        {
+          "physicalSize": "0.25x0.25",
+          "resolutions": [
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 13349894,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Opacity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1393949,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_4K_Opacity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 4603055,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Opacity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 628739,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_2K_Opacity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 1741907,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Opacity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 321518,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_1K_Opacity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "512x512",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 739652,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Opacity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 160740,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_512_Opacity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "256x256",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 262497,
+                  "bitDepth": 32,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Opacity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 87921,
+                  "bitDepth": 8,
+                  "uri": "Dbrs_wood_twig_T_rfkkwaa_256_Opacity.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#323232"
+    }
+  ],
+  "references": [],
+  "referencePreviews": {
+    "models": [
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 3885798,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 2250064,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 1839069,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 1558560,
+        "type": "lod",
+        "uri": ""
+      }
+    ],
+    "maps": [
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 285151,
+        "type": "albedo",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 107762,
+        "type": "displacement",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 183259,
+        "type": "bump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 262464,
+        "type": "gloss",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 357517,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 248497,
+        "type": "roughness",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 38436,
+        "type": "specular",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 321518,
+        "type": "opacity",
+        "uri": ""
+      }
+    ]
+  },
+  "averageColor": "#67533D",
+  "meshes": [
+    {
+      "type": "original",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 12375922,
+          "uri": "Dbrs_wood_twig_T_rfkkwaa_High.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 5578880,
+          "uri": "Dbrs_wood_twig_T_rfkkwaa_High.FBX"
+        }
+      ]
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 3885798,
+          "uri": "Dbrs_wood_twig_T_rfkkwaa_LOD0.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 2250064,
+          "uri": "Dbrs_wood_twig_T_rfkkwaa_LOD0.FBX"
+        }
+      ],
+      "tris": 41426
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 1839069,
+          "uri": "Dbrs_wood_twig_T_rfkkwaa_LOD1.obj"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 1558560,
+          "uri": "Dbrs_wood_twig_T_rfkkwaa_LOD1.FBX"
+        }
+      ],
+      "tris": 20288
+    }
+  ],
+  "id": "rfkkwaa",
+  "physicalSize": "0.25x0.25"
+}

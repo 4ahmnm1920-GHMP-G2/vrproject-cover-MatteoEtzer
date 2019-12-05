@@ -1,0 +1,1684 @@
+{
+  "pack": null,
+  "name": "street curbs",
+  "tags": [
+    "urban_environments",
+    "curb",
+    "street",
+    "cement",
+    "concrete",
+    "archviz",
+    "free",
+    "urban",
+    "environments archviztutorial",
+    "scatter"
+  ],
+  "brushes": [
+    {
+      "contentLength": 9821160,
+      "uri": "Aset_cement_curbs_S_sepxW_Brush_001.tif"
+    },
+    {
+      "contentLength": 4032336,
+      "uri": "Aset_cement_curbs_S_sepxW_Brush_002.tif"
+    },
+    {
+      "contentLength": 4629612,
+      "uri": "Aset_cement_curbs_S_sepxW_Brush_003.tif"
+    },
+    {
+      "contentLength": 3664780,
+      "uri": "Aset_cement_curbs_S_sepxW_Brush_004.tif"
+    },
+    {
+      "contentLength": 9229460,
+      "uri": "Aset_cement_curbs_S_sepxW_Brush_005.tif"
+    }
+  ],
+  "previews": {
+    "images": [
+      {
+        "contentLength": 333846,
+        "resolution": "784x400",
+        "uri": "sepxW_Thumb_HighPoly.png",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "highpoly"
+        ]
+      },
+      {
+        "contentLength": 1349303,
+        "resolution": "1568x800",
+        "uri": "sepxW_Thumb_HighPoly_Retina.png",
+        "tags": [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "contentLength": 906,
+        "resolution": "47x24",
+        "uri": "d7u1rIJ9c8zGvMnDucS/tZiTiSopJ6mkmbaxpjEwLBsbGkVDPx8gHhoaGnp2bGtoX7u1q8S9s2hlXrWvpoWAdmFeV5KNg9PNwqymnJ+akKagln55b1RRSg1qKT0AAAAmdFJOUwAl7/4V/v3+DeHw9Npv0QdRpC/myz95++q8nPv9ocKURN3Ue/ebREZxeAAAAWhJREFUOMu9k9tygjAQhiPmAIqAqCAKHtqZXRLOvv/DNbF1BiS96E2/IROy2Vn+fxNI4jjOWhjWBr3QgzkmetSP/83ekGVZQS6s7VupYQxAMslappFm1mspAQBRoPiBeGVZLR/L5UMPQ2XQscq867mcMJCrt/MMK2/E7jUbVi90hZKEroFS6o4Jv8Mm/mTxgvw3URb9ITtMJGBh24kvp3gezFDKjltcRcdGOItZEIHVdTDPT6ARbb2ZxOgJEPqab+lMZaHPtxvSw6S4jwhnzjez4vSCjejSyWfDZC0apnhwmJvyG4F1GtCJUYHYK4sW4xShVlv3zT2rlUULSRrTA7UNx0aFwH5QFi3hSae3So0LxXutpUuVRctiL0C+9SBxgLU8VRYtsS8AumkPCiFZz21aSOSgcTo9vpzLznZGhBwAJVPD29Y1r87nje2GXfO05cO4MU9u98D+19w+8srWYer+crndz/ss/QsEfCixRvSolwAAAABJRU5ErkJggg==",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "tiny"
+        ]
+      },
+      {
+        "contentLength": 54649,
+        "resolution": "784x400",
+        "uri": "sepxW_Thumb_HighPoly_thumb.jpg",
+        "tags": [
+          "thumb",
+          "highpoly",
+          "highpoly",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 232065,
+        "resolution": "1568x800",
+        "uri": "sepxW_Thumb_HighPoly_Retina_preview.jpg",
+        "tags": [
+          "preview",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 231797,
+        "resolution": "1568x800",
+        "uri": "sepxW_Thumb_HighPoly_Retina_thumb_retina.jpg",
+        "tags": [
+          "thumb",
+          "retina",
+          "jpeg"
+        ]
+      },
+      {
+        "contentLength": 173195,
+        "resolution": "1411x720",
+        "uri": "sepxW_Thumb_HighPoly_Retina_sp.jpg",
+        "tags": [
+          "jpeg",
+          "sidepanel"
+        ]
+      }
+    ],
+    "relativeSize": "2x1"
+  },
+  "environment": {
+    "biome": "mediterranean-forest",
+    "region": "Africa"
+  },
+  "json": {
+    "contentLength": 40188,
+    "uri": "sepxW.json"
+  },
+  "points": 0,
+  "meta": [
+    {
+      "key": "length",
+      "name": "Length",
+      "value": "1.04m"
+    },
+    {
+      "key": "width",
+      "name": "Width",
+      "value": "0.17m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.12m"
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "175 px/m"
+    },
+    {
+      "key": "assembly",
+      "name": "Assembly",
+      "value": "False"
+    },
+    {
+      "key": "color",
+      "name": "Color",
+      "value": "grey"
+    },
+    {
+      "key": "iteration",
+      "name": "Iteration Number",
+      "value": "%%iteration%%"
+    },
+    {
+      "key": "set",
+      "name": "Set Toggle",
+      "value": "False"
+    },
+    {
+      "key": "setname",
+      "name": "Set Name",
+      "value": "%%setname%%"
+    },
+    {
+      "key": "points",
+      "name": "Points",
+      "value": 6
+    },
+    {
+      "key": "isScaleFixed",
+      "name": "Is scale fixed",
+      "value": "true"
+    }
+  ],
+  "categories": [
+    "3d",
+    "cement",
+    "curbs"
+  ],
+  "components": [
+    {
+      "minIntensity": 65,
+      "name": "Normal",
+      "colorSpace": "Linear",
+      "maxIntensity": 199,
+      "type": "normal",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 241726286,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 10057
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 49392888,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 10057
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 223137022,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 8045
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 47486036,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 8045
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 222914977,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 6436
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 47451928,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 6436
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 222953228,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 5147
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 47412004,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 5147
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 239374638,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 47050461,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 236663887,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 299
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 45795986,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 299
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 151296823,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 10057
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 17806379,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 10057
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 140355498,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 8045
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 17444461,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 8045
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 140134705,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 6436
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 17434405,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 6436
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 140191028,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 5147
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 17423051,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 5147
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 148967194,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 17293648,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 148655340,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 299
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 16811730,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 299
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 40312750,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 10057
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 5080565,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 10057
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 38204143,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 8045
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4974696,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 8045
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 38121671,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 6436
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4973554,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 6436
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 38129877,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 5147
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4971296,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 5147
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 39926830,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4954140,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 39886561,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 299
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 4814136,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 299
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 10835574,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD0.exr",
+                  "lodType": "lod",
+                  "tris": 10057
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1306543,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD0.jpg",
+                  "lodType": "lod",
+                  "tris": 10057
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 10407411,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD1.exr",
+                  "lodType": "lod",
+                  "tris": 8045
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1266771,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD1.jpg",
+                  "lodType": "lod",
+                  "tris": 8045
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 10380983,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD2.exr",
+                  "lodType": "lod",
+                  "tris": 6436
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1268108,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD2.jpg",
+                  "lodType": "lod",
+                  "tris": 6436
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 10388903,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD3.exr",
+                  "lodType": "lod",
+                  "tris": 5147
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1268845,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD3.jpg",
+                  "lodType": "lod",
+                  "tris": 5147
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 10775792,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1280788,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 10753569,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 299
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 1245317,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Normal_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 299
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#827DEC"
+    },
+    {
+      "minIntensity": 107,
+      "name": "Bump",
+      "colorSpace": "Linear",
+      "maxIntensity": 154,
+      "type": "bump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 45351285,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 10127283,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 41767959,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 3166824,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 12011981,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1028832,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3318229,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Bump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 334198,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Bump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#818181"
+    },
+    {
+      "minIntensity": 13,
+      "name": "Gloss",
+      "colorSpace": "Linear",
+      "maxIntensity": 39,
+      "type": "gloss",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 82063173,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 18674059,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 53432122,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4982266,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14542173,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1265126,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3918081,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Gloss.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 319981,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Gloss.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#202020"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Displacement",
+      "colorSpace": "Linear",
+      "maxIntensity": 140,
+      "type": "displacement",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 40301595,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 7274444,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 15841386,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1906801,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 5278182,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 496466,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 1745138,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Displacement.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 159435,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Displacement.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#828282"
+    },
+    {
+      "minIntensity": 215,
+      "name": "Roughness",
+      "colorSpace": "Linear",
+      "maxIntensity": 244,
+      "type": "roughness",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 58289876,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 18156749,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 44906430,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4849024,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 12665267,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1231721,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3477051,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Roughness.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 312701,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Roughness.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#E0E0E0"
+    },
+    {
+      "minIntensity": 163,
+      "name": "Cavity",
+      "colorSpace": "sRGB",
+      "maxIntensity": 251,
+      "type": "cavity",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 75522657,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 29463459,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 51080205,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 8388020,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 14121266,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2093167,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 3800949,
+                  "bitDepth": 32,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Cavity.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 520232,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Cavity.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#E3E3E3"
+    },
+    {
+      "minIntensity": 0,
+      "name": "Specular",
+      "colorSpace": "sRGB",
+      "maxIntensity": 6,
+      "type": "specular",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 248249620,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 16153893,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 148300763,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 4922209,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 38273121,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 1217914,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 9752842,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Specular.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 295741,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Specular.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#030303"
+    },
+    {
+      "minIntensity": 123,
+      "name": "Normalbump",
+      "colorSpace": "sRGB",
+      "maxIntensity": 163,
+      "type": "normalbump",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 204207370,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 46933400,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 120592296,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 10099138,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 32778854,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 2525361,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_NormalBump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 8981259,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_NormalBump.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 591875,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_NormalBump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#8181FF"
+    },
+    {
+      "minIntensity": 12,
+      "name": "Albedo",
+      "colorSpace": "sRGB",
+      "maxIntensity": 131,
+      "type": "albedo",
+      "uris": [
+        {
+          "physicalSize": "1x1",
+          "resolutions": [
+            {
+              "resolution": "8192x8192",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 289174204,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 42539038,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 275080822,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 33653733,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 271173313,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 299
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 33269260,
+                  "uri": "Aset_cement_curbs_S_sepxW_8K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 299
+                }
+              ]
+            },
+            {
+              "resolution": "4096x4096",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 158012468,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 12021412,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 155932424,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 11187836,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 155206650,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 299
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 10985237,
+                  "uri": "Aset_cement_curbs_S_sepxW_4K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 299
+                }
+              ]
+            },
+            {
+              "resolution": "2048x2048",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 41632411,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 3158295,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 41373909,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 3048888,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 41176816,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 299
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 2990545,
+                  "uri": "Aset_cement_curbs_S_sepxW_2K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 299
+                }
+              ]
+            },
+            {
+              "resolution": "1024x1024",
+              "formats": [
+                {
+                  "mimeType": "image/x-exr",
+                  "contentLength": 11109932,
+                  "bitDepth": 16,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Albedo.exr"
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "contentLength": 789583,
+                  "bitDepth": 8,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Albedo.jpg"
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11072034,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Albedo_LOD4.exr",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 776702,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Albedo_LOD4.jpg",
+                  "lodType": "lod",
+                  "tris": 999
+                },
+                {
+                  "mimeType": "image/x-exr",
+                  "bitDepth": 16,
+                  "contentLength": 11027251,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Albedo_LOD5.exr",
+                  "lodType": "lod",
+                  "tris": 299
+                },
+                {
+                  "mimeType": "image/jpeg",
+                  "bitDepth": 8,
+                  "contentLength": 763253,
+                  "uri": "Aset_cement_curbs_S_sepxW_1K_Albedo_LOD5.jpg",
+                  "lodType": "lod",
+                  "tris": 299
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "averageColor": "#3D3730"
+    }
+  ],
+  "references": [],
+  "referencePreviews": {
+    "models": [
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 835184,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 485680,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 2074081,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-abc",
+        "contentLength": 669256,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-fbx",
+        "contentLength": 393024,
+        "type": "lod",
+        "uri": ""
+      },
+      {
+        "mimeType": "application/x-obj",
+        "contentLength": 1652864,
+        "type": "lod",
+        "uri": ""
+      }
+    ],
+    "maps": [
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1306543,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 1266771,
+        "type": "normal",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 334198,
+        "type": "bump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 319981,
+        "type": "gloss",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 159435,
+        "type": "displacement",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 312701,
+        "type": "roughness",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 520232,
+        "type": "cavity",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 295741,
+        "type": "specular",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 591875,
+        "type": "normalbump",
+        "uri": ""
+      },
+      {
+        "mimeType": "image/jpeg",
+        "resolution": "1024x1024",
+        "contentLength": 789583,
+        "type": "albedo",
+        "uri": ""
+      }
+    ]
+  },
+  "properties": [
+    {
+      "key": "mesh type",
+      "value": "open"
+    },
+    {
+      "key": "size",
+      "value": "small"
+    },
+    {
+      "key": "mesh count",
+      "value": "2"
+    }
+  ],
+  "averageColor": "#3D3730",
+  "meshes": [
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 536848,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD2.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 314144,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD2.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 1320237,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD2.obj"
+        }
+      ],
+      "tris": 6436
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 430640,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD3.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 250032,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD3.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 1053138,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD3.obj"
+        }
+      ],
+      "tris": 5147
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 835184,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD0.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 485680,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD0.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 2074081,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD0.obj"
+        }
+      ],
+      "tris": 10057
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 669256,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD1.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 393024,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD1.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 1652864,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD1.obj"
+        }
+      ],
+      "tris": 8045
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 88020,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD4.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 58240,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD4.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 200326,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD4.obj"
+        }
+      ],
+      "tris": 999
+    },
+    {
+      "type": "lod",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 30032,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD5.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 36016,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD5.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 59769,
+          "uri": "Aset_cement_curbs_S_sepxW_LOD5.obj"
+        }
+      ],
+      "tris": 299
+    },
+    {
+      "type": "zbrush",
+      "uris": [
+        {
+          "mimeType": "application/x-ztl",
+          "contentLength": 122059407,
+          "uri": "Aset_cement_curbs_S_sepxW_ZTool.ztl"
+        }
+      ]
+    },
+    {
+      "type": "original",
+      "uris": [
+        {
+          "mimeType": "application/x-abc",
+          "contentLength": 163678604,
+          "uri": "Aset_cement_curbs_S_sepxW_High.abc"
+        },
+        {
+          "mimeType": "application/x-fbx",
+          "contentLength": 113612624,
+          "uri": "Aset_cement_curbs_S_sepxW_High.fbx"
+        },
+        {
+          "mimeType": "application/x-obj",
+          "contentLength": 444889972,
+          "uri": "Aset_cement_curbs_S_sepxW_High.obj"
+        }
+      ]
+    }
+  ],
+  "id": "sepxW",
+  "physicalSize": "1x1"
+}
