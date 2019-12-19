@@ -7,7 +7,16 @@ The weather is also going to influence the playing field.
 For example heavy wind will make your aiming unstable.
 You will also be able to refill your ammunition using pickups.
 
+###Mood & Inspiration pictures
 <img width="1014" alt="Screenshot 2019-12-19 at 10 27 21" src="https://user-images.githubusercontent.com/55184782/71161742-388e5e00-224a-11ea-9ae6-b9641163e787.png">
+
+<img width="1015" alt="Screenshot 2019-12-19 at 10 27 28" src="https://user-images.githubusercontent.com/55184782/71161887-7ab79f80-224a-11ea-967a-01a005766e06.png">
+
+<img width="1017" alt="Screenshot 2019-12-19 at 10 27 42" src="https://user-images.githubusercontent.com/55184782/71161905-83a87100-224a-11ea-9cc8-a4c2505a9235.png">
+
+<img width="1013" alt="Screenshot 2019-12-19 at 10 30 12" src="https://user-images.githubusercontent.com/55184782/71161975-a5095d00-224a-11ea-980e-5a097bf6d2bd.png">
+
+<img width="1015" alt="Screenshot 2019-12-19 at 10 30 19" src="https://user-images.githubusercontent.com/55184782/71162328-4bedf900-224b-11ea-86c4-dbcbc5d61c59.png">
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
