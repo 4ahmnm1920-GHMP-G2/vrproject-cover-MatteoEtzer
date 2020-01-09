@@ -19,11 +19,8 @@ You will also be able to refill your ammunition using pickups.
 <img width="1015" alt="Screenshot 2019-12-19 at 10 30 19" src="https://user-images.githubusercontent.com/55184782/71162328-4bedf900-224b-11ea-86c4-dbcbc5d61c59.png">
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+(MacOS Catalina, 2019.1.14f1, VSCode 1.41.1, SteamVR)
 Scripting Runtime Version: 4.0
-Visual Studio Code
-SteamVR
-
 
 ### Target platform: 
 VR Device, Oculus, HTC Vive
@@ -47,6 +44,7 @@ sounds not started yet
 ### Limitations: 
 you have to have a vr headset
 
-### Lessons Learned: 
+### Lessons Learned:
+8k textures are big :)
 
 ©Matteo Etzer
