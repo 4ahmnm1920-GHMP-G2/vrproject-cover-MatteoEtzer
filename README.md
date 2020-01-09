@@ -7,7 +7,7 @@ The weather is also going to influence the playing field.
 For example heavy wind will make your aiming unstable.
 You will also be able to refill your ammunition using pickups.
 
-###Mood & Inspiration pictures
+### Mood & Inspiration pictures
 <img width="1014" alt="Screenshot 2019-12-19 at 10 27 21" src="https://user-images.githubusercontent.com/55184782/71161742-388e5e00-224a-11ea-9ae6-b9641163e787.png">
 
 <img width="1015" alt="Screenshot 2019-12-19 at 10 27 28" src="https://user-images.githubusercontent.com/55184782/71161887-7ab79f80-224a-11ea-967a-01a005766e06.png">
